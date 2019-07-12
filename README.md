@@ -1,2 +1,3 @@
-# machine-learning-tutorial
-iPython notebooks to get familiar with the basics of numpy, pandas and matplotlib
+# Complete-Python-Tutorial
+iPython notebooks for all the people just getting started in python.
+It covers a wide range of topics from variables, data structures to numpy, pandas, matplotlib
